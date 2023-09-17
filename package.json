@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Node js project",
+  "main": "src/server.js",
+  "scripts": {
+    "server": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balaKarur/NodeJs.git"
+  },
+  "author": "Bala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balaKarur/NodeJs/issues"
+  },
+  "homepage": "https://github.com/balaKarur/NodeJs#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
